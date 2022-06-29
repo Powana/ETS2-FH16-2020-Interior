@@ -1,2 +1,1 @@
-"# ETS2-FH16-2020-Interior" 
-"# ETS2-FH16-2020-Interior" 
+Just a place to keep the updated mod file
